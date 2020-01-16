@@ -5,17 +5,17 @@ This is a starter for react applications, configured with webpack, babel and liv
 To get started, clone this repository.
 
 To install all the dependencies, run any of the below commands from command-line or terminal.
-`$npm install` 
+`npm install` 
 or
-`$yarn` 
+`yarn` 
 
 
 To run development server
-`$yarn start`
+`yarn start`
 or
-`$npm start`
+`npm start`
 
 To build your project for production 
-`$ yarn build`
+`yarn build`
 or
-`$ npm build`
+`npm build`
